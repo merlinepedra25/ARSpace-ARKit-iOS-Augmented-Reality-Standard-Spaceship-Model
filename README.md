@@ -4,7 +4,7 @@ Augmented Reality iOS Project using Apple's AR Kit for placing Spaceship in fron
 You can see the 3D model of the spaceship in Augmented Environment, with the ARKit tool its almost like real.
 Whenever you tap
 
-#### Youtube Reference Tutorial : https://developer.apple.com/videos/play/wwdc2017/602/
+#### Reference Tutorial : https://developer.apple.com/videos/play/wwdc2017/602/
 
 ### Note
 Project was build in Xcode 9 with Swift 4.
@@ -13,3 +13,5 @@ The "AR Space.xcodeproj" is the File that will open this project in Xcode.
 
 ## How does it looks like
 (Gif)
+
+![arspace](https://user-images.githubusercontent.com/15246084/41306735-b61daeb8-6e94-11e8-8d4a-31bde29ef8fa.gif)
